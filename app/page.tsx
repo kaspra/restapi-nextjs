@@ -17,7 +17,7 @@ const page = () => {
             serverless API routes and MongoDB for scalable data storage.
           </p>
           <button className="bg-[#0e9afd] text-white rounded-xl px-5 py-2 mt-6 font-bold">
-            <a href="https://github.com/kaspra" target="_blank">
+            <a href="https://github.com/kaspra/restapi-nextjs" target="_blank">
               Explore API
             </a>
           </button>
